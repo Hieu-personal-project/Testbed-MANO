@@ -1,7 +1,7 @@
 # 1.Architecture 
 ![alt text](./archi.png)
 Mô phỏng một mạng mà có thể quản lý được toàn bộ hệ thống mạng 100%. 
-Testbed gồm có 4 switch nối với nhau để tạo mô phỏng một mạng lớn hơn [swith](./switch/README.md). Những switch được điều khiển bỏi SDN controller. Chi tiết như ảnh trên.
+Testbed gồm có 4 switch nối với nhau để tạo mô phỏng một mạng lớn hơn [switch](./switch/README.md). Những switch được điều khiển bỏi SDN controller. Chi tiết như ảnh trên.
 
 # 2.Create database
 
