@@ -13,7 +13,7 @@ Bước 2: Import dữ liệu trong [folder](./database/) sau
 
 Để khởi chạy SDN Controller làm theo bước sau [SDN Controller](./SDN/trung/mytest/README.md)
 
-# 4. Run WebServer
+# 4. Run Backend
 ## 4.1 Orchestrator webserver
 Khởi chạy file python sau: [this](./webserver/ryu/mc/webserver.py)
 ## 4.2 SFC webserver
